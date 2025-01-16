@@ -1,5 +1,5 @@
 # Datenbanken
-Beispiele zur Verbindung zwischen Datenbanken und Flask
+Beispiele zur Anbindung einer Datenbank mit eigenen Funktionen.
 
 | Skript                                               | Beschreibung                                                                     |
 |------------------------------------------------------|----------------------------------------------------------------------------------|
