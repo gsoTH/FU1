@@ -7,3 +7,8 @@ Dieses Projekt zeigt ein einfaches FastAPI-Projekt mit einer SQLite-Datenbank oh
 1. Installiere die Abhängigkeiten:
    ```bash
    pip install -r requirements.txt
+   ```
+
+2. ```bash
+   uvicorn app.main:app --reload
+   ```
